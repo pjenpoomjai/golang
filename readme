@@ -1,0 +1,23 @@
+create file main.go 
+go mod init [name repo]
+go run main.go => compile and run
+go build  => compile and gen main.exe
+
+
+go get [github.com/cosmos/cosmos-proto]    => install lib
+
+nodemon --exec go run /main.go --signal SIGTERM
+
+
+
+if else 
+switch
+Array
+Slice
+Map
+append
+func
+for loop
+while loop
+
+Go Routine
